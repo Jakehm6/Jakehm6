@@ -1,16 +1,18 @@
-## Hi there 👋
+# My epic README
+### <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey! I'm Jake, and this is my GitHub profile. Here I will include projects I'm working on and things I discover.
 
-<!--
-**Jakehm6/Jakehm6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+### 🙋‍♂️ About me
+- 17 year old cyber security student
+- Interested in pentesting (so original)
+- Exploring wifi hacking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💾 My Projects
+- Currently working on a collection of easy to use evil portals for demonstration with the flipper zero
+
+
+### 🏛 Education
+- Enrolled in a Certificate IV in CyberSecurity at Tafe
+- Working towards the Comptia A+ Certificate
